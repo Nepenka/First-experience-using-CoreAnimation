@@ -1,0 +1,6 @@
+framework module Pods_First_experience_with_Core_Animation {
+  umbrella header "Pods-First experience with Core Animation-umbrella.h"
+
+  export *
+  module * { export * }
+}
